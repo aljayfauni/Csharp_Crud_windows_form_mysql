@@ -1,0 +1,14 @@
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\bin\Debug\csharp_crudapp.exe.config
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\bin\Debug\csharp_crudapp.exe
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\bin\Debug\csharp_crudapp.pdb
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\bin\Debug\MySql.Data.dll
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.csproj.AssemblyReference.cache
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.Form1.resources
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.Properties.Resources.resources
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.csproj.GenerateResource.cache
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.csproj.CoreCompileInputs.cache
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.csproj.CopyComplete
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.exe
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.pdb
+C:\Users\al\source\repos\csharp_crudapp\csharp_crudapp\obj\Debug\csharp_crudapp.Form2.resources
